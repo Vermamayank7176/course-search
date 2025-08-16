@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c-001",
+    "title": "Intro to Physics",
+    "description": "Basic physics course covering motion, forces, and energy.",
+    "category": "Science",
+    "type": "COURSE",
+    "gradeRange": "6th-8th",
+    "minAge": 11,
+    "maxAge": 14,
+    "price": 29.99,
+    "nextSessionDate": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "c-002",
+    "title": "Creative Drawing for Kids",
+    "description": "Learn basic drawing skills and creativity.",
+    "category": "Art",
+    "type": "ONE_TIME",
+    "gradeRange": "1st-3rd",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 15.00,
+    "nextSessionDate": "2025-07-20T14:30:00Z"
+  },
+  {
+    "id": "c-003",
+    "title": "Dinosaurs 101",
+    "description": "All about dinosaurs—fossils, habitat, and more.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "3rd-5th",
+    "minAge": 8,
+    "maxAge": 11,
+    "price": 9.99,
+    "nextSessionDate": "2025-08-05T16:00:00Z"
+  }
+]
